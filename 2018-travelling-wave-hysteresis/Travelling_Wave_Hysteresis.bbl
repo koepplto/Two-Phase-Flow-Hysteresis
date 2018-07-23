@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{beliaev2001theoretical}
+A.~Beliaev and S.~Hassanizadeh.
+\newblock A theoretical model of hysteresis and dynamic effects in the
+  capillary relation for two-phase flow in porous media.
+\newblock {\em Transport in Porous media}, 43(3):487--510, 2001.
+
+\bibitem{helmig1997multiphase}
+R.~Helmig.
+\newblock {\em {Multiphase flow and transport processes in the subsurface: a
+  contribution to the modeling of hydrosystems.}}
+\newblock Springer-Verlag, 1997.
+
+\bibitem{morrow1965capillary}
+N.~Morrow, C.~Harris, et~al.
+\newblock Capillary equilibrium in porous materials.
+\newblock {\em Society of Petroleum Engineers Journal}, 5(01):15--24, 1965.
+
+\bibitem{plohr2001modeling}
+B.~Plohr, D.~Marchesin, P.~Bedrikovetsky, and P.~Krause.
+\newblock Modeling hysteresis in porous media flow via relaxation.
+\newblock {\em Computational Geosciences}, 5(3):225--256, 2001.
+
+\bibitem{schneider2018stable}
+M.~Schneider, T.~K{\"o}ppl, R.~Helmig, R.~Steinle, and R.~Hilfer.
+\newblock Stable propagation of saturation overshoots for two-phase flow in
+  porous media.
+\newblock {\em Transport in Porous Media}, 121(3):621--641, 2018.
+
+\end{thebibliography}
